@@ -1,5 +1,5 @@
 {
-  "name": "ontology/ontology-php-sdk",
+  "name": "smallsung/ontology-php-sdk",
   "description": "PHP library for the Ontology blockchain.",
   "type": "library",
   "license": "LGPL-3.0",
